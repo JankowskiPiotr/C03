@@ -1,0 +1,7 @@
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.2\Zad 3.2\bin\Debug\Zad 3.2.exe
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.2\Zad 3.2\bin\Debug\Zad 3.2.pdb
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.2\Zad 3.2\bin\Debug\nunit.framework.dll
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.2\Zad 3.2\bin\Debug\nunit.framework.xml
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.2\Zad 3.2\obj\x86\Debug\Zad 3.2.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.2\Zad 3.2\obj\x86\Debug\Zad 3.2.exe
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.2\Zad 3.2\obj\x86\Debug\Zad 3.2.pdb

@@ -1,0 +1,17 @@
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.2\Zad 3.2.Tests\bin\Debug\Zad 3.2.Tests.dll
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.2\Zad 3.2.Tests\bin\Debug\Zad 3.2.Tests.pdb
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.2\Zad 3.2.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.2\Zad 3.2.Tests\bin\Debug\Zad 3.2.exe
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.2\Zad 3.2.Tests\bin\Debug\Zad 3.2.pdb
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.2\Zad 3.2.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.2\Zad 3.2.Tests\obj\Debug\Zad 3.2.Tests.dll
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.2\Zad 3.2.Tests\obj\Debug\Zad 3.2.Tests.pdb
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\C03-zad2\Zad 3.2.Tests\bin\Debug\Zad 3.2.Tests.dll
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\C03-zad2\Zad 3.2.Tests\bin\Debug\Zad 3.2.Tests.pdb
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\C03-zad2\Zad 3.2.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\C03-zad2\Zad 3.2.Tests\bin\Debug\Zad 3.2.exe
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\C03-zad2\Zad 3.2.Tests\bin\Debug\Zad 3.2.pdb
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\C03-zad2\Zad 3.2.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\C03-zad2\Zad 3.2.Tests\obj\Debug\C03-zad2.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\C03-zad2\Zad 3.2.Tests\obj\Debug\Zad 3.2.Tests.dll
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\C03-zad2\Zad 3.2.Tests\obj\Debug\Zad 3.2.Tests.pdb

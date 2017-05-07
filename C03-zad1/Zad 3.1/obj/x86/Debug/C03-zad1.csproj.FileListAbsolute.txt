@@ -1,0 +1,6 @@
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.1\Zad 3.1\obj\x86\Debug\Zad 3.1.exe
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.1\Zad 3.1\obj\x86\Debug\Zad 3.1.pdb
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\C03-zad1\Zad 3.1\obj\x86\Debug\Zad 3.1.exe
+C:\Users\Piotrek\Desktop\obiktowe\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\C03-zad1\Zad 3.1\obj\x86\Debug\Zad 3.1.pdb
+C:\Users\Piotrek\C03\C03-zad1\Zad 3.1\obj\x86\Debug\Zad 3.1.exe
+C:\Users\Piotrek\C03\C03-zad1\Zad 3.1\obj\x86\Debug\Zad 3.1.pdb
